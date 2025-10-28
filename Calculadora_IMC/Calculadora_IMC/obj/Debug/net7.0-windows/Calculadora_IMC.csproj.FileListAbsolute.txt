@@ -1,0 +1,17 @@
+D:\Madu\Calculadora_IMC\Calculadora_IMC\bin\Debug\net7.0-windows\Calculadora_IMC.exe
+D:\Madu\Calculadora_IMC\Calculadora_IMC\bin\Debug\net7.0-windows\Calculadora_IMC.deps.json
+D:\Madu\Calculadora_IMC\Calculadora_IMC\bin\Debug\net7.0-windows\Calculadora_IMC.runtimeconfig.json
+D:\Madu\Calculadora_IMC\Calculadora_IMC\bin\Debug\net7.0-windows\Calculadora_IMC.dll
+D:\Madu\Calculadora_IMC\Calculadora_IMC\bin\Debug\net7.0-windows\Calculadora_IMC.pdb
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.csproj.AssemblyReference.cache
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.Form1.resources
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.csproj.GenerateResource.cache
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.AssemblyInfoInputs.cache
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.AssemblyInfo.cs
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.csproj.CoreCompileInputs.cache
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.dll
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\refint\Calculadora_IMC.dll
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.pdb
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\Calculadora_IMC.genruntimeconfig.cache
+D:\Madu\Calculadora_IMC\Calculadora_IMC\obj\Debug\net7.0-windows\ref\Calculadora_IMC.dll
