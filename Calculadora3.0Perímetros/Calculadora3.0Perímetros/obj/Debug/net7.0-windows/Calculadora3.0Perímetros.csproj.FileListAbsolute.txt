@@ -1,0 +1,17 @@
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\bin\Debug\net7.0-windows\Calculadora3.0Perímetros.exe
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\bin\Debug\net7.0-windows\Calculadora3.0Perímetros.deps.json
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\bin\Debug\net7.0-windows\Calculadora3.0Perímetros.runtimeconfig.json
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\bin\Debug\net7.0-windows\Calculadora3.0Perímetros.dll
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\bin\Debug\net7.0-windows\Calculadora3.0Perímetros.pdb
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.csproj.AssemblyReference.cache
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3._0Perímetros.Form1.resources
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.csproj.GenerateResource.cache
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.AssemblyInfoInputs.cache
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.AssemblyInfo.cs
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.csproj.CoreCompileInputs.cache
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.dll
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\refint\Calculadora3.0Perímetros.dll
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.pdb
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\Calculadora3.0Perímetros.genruntimeconfig.cache
+D:\Maduzinha\Calculadora3.0Perímetros\Calculadora3.0Perímetros\obj\Debug\net7.0-windows\ref\Calculadora3.0Perímetros.dll
